@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Adinda Widia Choirunnisa"
+        android:textAlignment="TextStart"
+        android:textSize="35sp"
+        app:layout_constraintBottom_toBottomof="parent"
+        app:layout_constraintLeft_toLeftof="parent"
+        app:layout_constraintRight_toRightof="parent"
+        app:layout_constraintTop_toTopof="parent"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="2792"
+        android:textAlignment="TextStart"
+        android:textSize="25sp"
+        app:layout_constraintBottom_toBottomof="parent"
+        app:layout_constraintLeft_toLeftof="parent"
+        app:layout_constraintRight_toRightof="parent"
+        app:layout_constraintTop_toTopof="parent"
+        />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Andreas Adi Minarso"
+        android:textSize="35sp"
+        android:background="#00ff00"
+        app:layout_constraintBottom_toBottomof="parent"
+        app:layout_constraintLeft_toLeftof="parent"
+        app:layout_constraintRight_toRightof="parent"
+        app:layout_constraintTop_toTopof="parent" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="2994"
+        android:textSize="25sp"
+        android:background="#00ff00"
+        app:layout_constraintBottom_toBottomof="parent"
+        app:layout_constraintLeft_toLeftof="parent"
+        app:layout_constraintRight_toRightof="parent"
+        app:layout_constraintTop_toTopof="parent"/>
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Anita Sari"
+        android:textSize="35sp"
+        app:layout_constraintLeft_toLeftof="parent"
+        app:layout_constraintRight_toRightof="parent"
+        app:layout_constraintTop_toTopof="parent" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="2975"
+        android:textSize="25sp"
+        app:layout_constraintBottom_toBottomof="parent"
+        app:layout_constraintLeft_toLeftof="parent"
+        app:layout_constraintRight_toRightof="parent"
+        />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ardian Muhhamad Iqbal"
+        android:textSize="35sp"
+        app:layout_constraintBottom_toBottomof="parent"
+        app:layout_constraintLeft_toLeftof="parent"
+        app:layout_constraintRight_toRightof="parent"
+        app:layout_constraintTop_toTopof="parent"/>
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="2976"
+        android:textSize="25sp"
+        app:layout_constraintBottom_toBottomof="parent"
+        app:layout_constraintLeft_toLeftof="parent"
+        app:layout_constraintRight_toRightof="parent"
+        app:layout_constraintTop_toTopof="parent"/>
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bagas Saputra"
+        android:textSize="35sp"
+        app:layout_constraintBottom_toBottomof="parent"
+        app:layout_constraintLeft_toLeftof="parent"
+        app:layout_constraintRight_toRightof="parent"
+        app:layout_constraintTop_toTopof="parent"/>
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="2978"
+        android:textSize="25sp"
+        app:layout_constraintBottom_toBottomof="parent"
+        app:layout_constraintLeft_toLeftof="parent"
+        app:layout_constraintRight_toRightof="parent"
+        app:layout_constraintTop_toTopof="parent"/>
+
+</LinearLayout>
